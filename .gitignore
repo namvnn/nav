@@ -51,8 +51,11 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-# debug information files
+# Debug information files
 *.dwo
 
 # Ctags
 tags
+
+# Build files
+bin/
